@@ -21,15 +21,12 @@ public class Case {
     public String getModel() {
         return model;
     }
-
     public String getManufacturer() {
         return manufacturer;
     }
-
     public String getPowerSupply() {
         return powerSupply;
     }
-
     public Dimensions getDimensions() {
         return dimensions;
     }

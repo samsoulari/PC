@@ -20,15 +20,12 @@ public class Monitor {
     public String getModel() {
         return model;
     }
-
     public String getManufacturer() {
         return manufacturer;
     }
-
     public int getSize() {
         return size;
     }
-
     public Resolution getNativeResolution() {
         return nativeResolution;
     }

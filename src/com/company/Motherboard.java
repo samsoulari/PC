@@ -19,22 +19,19 @@ public class Motherboard {
     public void loadProgram(String programName) {
         System.out.println("Program " + programName + " is now loading...");
     }
+
     public String getModel() {
         return model;
     }
-
     public String getManufacturer() {
         return manufacturer;
     }
-
     public int getRamSlots() {
         return ramSlots;
     }
-
     public int getCardSlots() {
         return cardSlots;
     }
-
     public String getBios() {
         return bios;
     }
